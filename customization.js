@@ -4,7 +4,7 @@ const packageJson = require("./package.json"); // Get package details
 module.exports = {
   ARTISTS:[
       "Ranwan Liyanage original",
-      "Amal Perera original",
+      "shan putha",
       "Clarence Wijewardena original",
       "Sunil Edirisinghe original",
       "Victor Ratnayake original",
@@ -13,6 +13,7 @@ module.exports = {
       "Kasun Kalhara original",
       "Uresha Ravihari original",
       "Dinesh Kanagaratnam original"
+      "yohani de silwa"
     ],
   //====================menu=================================
   MENUMSG: function (pushname, runtime, config) {
