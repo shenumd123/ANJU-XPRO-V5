@@ -53,7 +53,7 @@ module.exports = {
     : ["94717775628", "94758775628"],
   PORT: process.env.PORT || "3000",
   SESSION_DIR: process.env.SESSION_DIR || "sess",
-  TOKEN: "NFDOVts2peQlDNM36tToIuzn07AOrP3bDKrw",
-  USERNAME: "nuwansansala2006",
+  TOKEN: "tEiKQDmYdQA6aUBaRsiHVZFIGJtvpk0WlQ5p",
+  USERNAME: "shenumd123",
   REPO_NAME: "ANJU-XPRO-V5",
 };
