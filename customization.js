@@ -12,7 +12,7 @@ module.exports = {
       "Sanuka Wickramasinghe original",
       "Kasun Kalhara original",
       "Uresha Ravihari original",
-      "Dinesh Kanagaratnam original"
+      "Dinesh Kanagaratnam original",
       "yohani de silwa"
     ],
   //====================menu=================================
